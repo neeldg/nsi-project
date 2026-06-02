@@ -65,3 +65,6 @@ pip install numpy pandas scipy scikit-learn matplotlib seaborn anndata scanpy ju
 - [ ] NSI profile and scalar
 - [ ] Validation against tonsil biology
 - [ ] Local NSI (spatial heatmaps)
+
+## Credit
+This project was made by Neel Dutta Gupta.
